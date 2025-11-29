@@ -14,7 +14,7 @@ It consists of a frontend Streamlit server and backend FastAPI server connected 
 ## Setup Instructions
 1. **Clone the repository**:
     ```bash
-   git clone 
+   git clone 'https://github.com/AbhishekDas1234/Expense-Management-System.git'
    cd expense-anagement-system
     ```
 2. **Install dependencies:**:
