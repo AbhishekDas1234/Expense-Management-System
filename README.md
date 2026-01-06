@@ -1,6 +1,6 @@
 # Expense Management System
 
-This project is an expense management system where the the expense data against some categories(Rent, Food, Shopping, Entertainment, Other) are maintained base on particular dates.
+This project is an expense management system where the expense data against some categories(Rent, Food, Shopping, Entertainment, Other) are maintained base on particular dates.
 It consists of a frontend Streamlit server and backend FastAPI server connected to MySQL database.
 
 ![](project_archi_diagram.png?raw=true)
